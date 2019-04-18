@@ -1,2 +1,1 @@
-# EDA - IPL
-Exploratory Data Analysis of IPL matches Data.
+# Exploratory Data Analysis - IPL
