@@ -1,2 +1,2 @@
 # Exploratory Data Analysis - IPL
-![image.png](EDA-IPL/images/IPL_Logo.png)
+![image.png](images/IPL_Logo.png)
