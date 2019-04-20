@@ -13,6 +13,8 @@ This repository contains EDA project on various differnt type of DataSets from R
 
 ## Table of Content
 * [IPL Matches](#ipl-matches)
+___
 
 ### [IPL Matches](./EDA-IPL)
 ![image.jpg](./images/IPL.jpg)
+
