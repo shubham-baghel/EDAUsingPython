@@ -39,3 +39,6 @@ Also We will analyze __Ball By Ball__ data to get insights of player wise statis
 * Toss winning team chooses Field mostly also chasing team has won better winning percentage.
 * Victory margin ranges between 1-40 runs and 4-5 wickets.
 * CH Gayle, AB de Villiers , Rohit Sharma are top players Won Man of the Match many times.
+
+[Jupyter Notebook Matches](./EDA%20-%20IPL%20Matches.ipynb)
+[Jupyter Notebook Deliveries](./EDA%20-%20Deliveries%20-IPL.ipynb)
