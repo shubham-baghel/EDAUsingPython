@@ -18,3 +18,7 @@ ___
 ### [IPL Matches](./EDA-IPL)
 ![image.jpg](./images/IPL.jpg)
 
+* The Indian Premier League is a professional Twenty20 cricket league in India contested during March or April and May of every year by 8 teams representing eight different cities in India.
+* Mumbai Indian and Chennai Super Kings are top two teams.
+* Toss winning team chooses Field mostly also chasing team has won better winning percentage.
+* Victory margin ranges between 1-40 runs and 4-5 wickets.
