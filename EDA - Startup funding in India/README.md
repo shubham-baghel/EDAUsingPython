@@ -1,5 +1,5 @@
 # Exploratory Data Analysis - Startups in India
-![image.jpg](images/Indian_Startups.jpg)
+![image.jpg](images/Indian-Startups.jpg)
 
 ## INTRODUCTION
 As India is growing in Technology and other small Industry. We will do analysis of startups started between year(2015-2017).
