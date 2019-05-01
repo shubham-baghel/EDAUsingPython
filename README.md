@@ -23,6 +23,7 @@ ___
 * Mumbai Indian and Chennai Super Kings are top two teams.
 * Toss winning team chooses Field mostly also chasing team has won better winning percentage.
 * Victory margin ranges between 1-40 runs and 4-5 wickets.
+___
 
 ### [Startups in India](./EDA%20-%20Startup%20funding%20in%20India)
 ![image.jpg](./images/StartupInIndiMain.jpg)
