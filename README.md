@@ -13,6 +13,7 @@ This repository contains EDA project on various differnt type of DataSets from R
 
 ## Table of Content
 * [IPL Matches](#ipl-matches)
+* [Startups In India](#startups-in-India)
 ___
 
 ### [IPL Matches](./EDA-IPL)
@@ -22,3 +23,10 @@ ___
 * Mumbai Indian and Chennai Super Kings are top two teams.
 * Toss winning team chooses Field mostly also chasing team has won better winning percentage.
 * Victory margin ranges between 1-40 runs and 4-5 wickets.
+
+### [Startups in India](./EDA%20-%20Startup%20funding%20in%20India)
+
+* In 2017, number of starup reduced compare to 2016 and 2017
+* Most startup are in Consumer Internet and Tecnology domain.
+* Bangalore, Mumbai and Delhi NCR are three main cities for any startup.
+* Most of the startups get seed funding.
