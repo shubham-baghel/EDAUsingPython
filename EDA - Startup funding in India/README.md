@@ -19,23 +19,21 @@ We will analayze different attributes as city, industry, funding type and amount
 ## Project Analysis
 | Description | Analysis |
 | --- | --- |
-| `matches.head` | ![image.png](images/matches_head.PNG)
-| `Missing Values` | ![image.png](images/matches_missing_values.PNG)
+| `startup_funding.head` | ![image.png](images/Startup_head.PNG)
+| `Columns` | ![image.png](images/Startup_columns.PNG)
+| `Missing Values` | ![image.png](images/Startup_isnull.PNG)
 
 ## Insights from Data
 | Description | Plot |
 | --- | --- |
-|`Teams Winning Count`| ![image.png](images/IPL-PPT-1.png)|
-|`Toss Decision`| ![image.png](images/IPL-PPT-2.png)|
-|`Match Result Vs Toss Decision`| ![image.png](images/IPL-PPT-3.png)|
-|`Stadium Vs Toss Decision`| ![image.png](images/IPL-PPT-4.png)|
-|`Run Scored Distribution`| ![image.png](images/IPL-PPT-7.png)|
-|`Dismissal Type Analysis`| ![image.png](images/IPL-PPT-8.png)|
-|`Avergae Score on First Inning`| ![image.png](images/IPL-PPT-9.png)|
+|`Yearwise Startups Count`| ![image.png](images/Startup_plot_1.PNG)|
+|`Top Industry Vertials`| ![image.png](images/Startup_plot_2.PNG)|
+|`Top Cities`| ![image.png](images/Startup_plot_2.PNG)|
+|`Popular Funding types`| ![image.png](images/Startup_plot_2.PNG)|
+|`Funding Amount`| ![image.png](images/Startup_plot_2.PNG)|
 
 ## Jupyter NoteBooks
-* [Jupyter Notebook Matches](./EDA%20-%20IPL%20Matches.ipynb)
-* [Jupyter Notebook Deliveries](./EDA%20-%20Deliveries%20-IPL.ipynb)
+* [Jupyter Notebook Startups In India](./EDA-StartupFunding.ipynb)
 
 ## Conclusion
 * In 2017, number of starup reduced compare to 2016 and 2017
