@@ -25,7 +25,7 @@ ___
 * Victory margin ranges between 1-40 runs and 4-5 wickets.
 
 ### [Startups in India](./EDA%20-%20Startup%20funding%20in%20India)
-
+![image.jpg](./images/StartupInIndiMain.jpg)
 * In 2017, number of starup reduced compare to 2016 and 2017
 * Most startup are in Consumer Internet and Tecnology domain.
 * Bangalore, Mumbai and Delhi NCR are three main cities for any startup.
